@@ -16,7 +16,7 @@
 /linux/ @D4RIO @Amsal1
 /machine-learning/ @aaronwangj
 /microsoft-access/ @drmegalomaniac @asdfasfasdfabbnnnnaa
-/microsoft-azure/ @tomtreffke
+!/microsoft-azure/ @tomtreffke
 /microsoft-excel/ @gazihasanrahman
 /mysql/ @ruslanbes
 /node.js/ @pbachman
